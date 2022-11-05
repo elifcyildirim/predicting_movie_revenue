@@ -32,7 +32,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 
 ## Actual vs. Predicted Revenue
 
-![actual_vs_predicted_revenue.jpeg](image/actual_vs_predicted_revenue.jpeg)
+![actual_vs_predicted_revenue.png](image/actual_vs_predicted_revenue.png)
 
 ## Tools
 
