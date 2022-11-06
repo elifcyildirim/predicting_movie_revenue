@@ -17,7 +17,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 - **1_IMDBscraper_Step1.ipynb.** This notebook scrapes the primary information on all movies from imdb.com.
 - **2_IMDBscraper_Step2.ipynb.** As the second step of scraping, this notebook retrieves the award information for each movie that was scraped in the first step.
 - **3_IMDBscraper_Step3.ipynb.** Finally, this notebook scrapes the imdb page of each movie one by one.
-- **4_Academy_awards_df_(adding_2021).ipynb.** I simply added the 2021 Oscar award data to the dataset that I downloaded from kaggle.com
+- **4_Academy_awards_df_(adding_2021).ipynb.** I simply added the 2021 Oscar award data to the Oscars dataset that I downloaded from kaggle.com. This data is used for feature engineering purposes.
 - **5_DataPrep_and_EDA.ipynb.** Movies that are released in the US between the years 2015-2021 are treated and prepared in this notebook.
 - **6_DataPrep_ValidationDataset.ipynb.** Same preparation steps are applied to the validation data, which are the movies from the year 2022 that are released in the U.S.
 - **7_Regression_Model.ipynb.** I built a linear regression model to predict the movie revenues.
