@@ -19,7 +19,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 - **3_IMDBscraper_Step3.ipynb.** Finally, this notebook scrapes the imdb page of each movie one by one.
 - **4_Academy_awards_df_(adding_2021).ipynb.** I simply added the 2021 Oscar award data to the Oscars dataset that I downloaded from kaggle.com. This data is used for feature engineering purposes.
 - **5_DataPrep_and_EDA.ipynb.** Movies that are released in the US between the years 2015-2021 are treated and prepared in this notebook.
-- **6_DataPrep_ValidationDataset.ipynb.** Same preparation steps are applied to the validation data, which are the movies from the year 2022 that are released in the U.S.
+- **6_DataPrep_ValidationDataset.ipynb.** The same preparation steps are applied to the validation data, which are the movies released in 2022.
 - **7_Regression_Model.ipynb.** I built a linear regression model to predict the movie revenues.
 - **Producing_the_Hollywood_movies.pdf.** I present my analysis, model and key findings in this presentation. 
 - **[Tablaeu file: Movie_industry](https://public.tableau.com/views/Movie_industry/Budget_vs_Gross_per_genre?:language=en-US&:display_count=n&:origin=viz_share_link).** You can find the visualizations that I produced in this project on Tablaeu public.
