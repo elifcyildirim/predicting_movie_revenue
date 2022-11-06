@@ -25,9 +25,9 @@ Movies make up a large portion of the entertainment business and producing a mov
 
 ## Key findings
 
-- Movie revenue strongly correlates with production budget.
+- Movie revenue strongly correlates with the production budget.
 - Genre is the primary determinant in the average budget necessary for producing the movie.
-- A director with a notably successful career can make significant impact on the success of the movie. 
+- A director with a notably successful career can make a significant impact on the success of the movie. 
 - Choosing the leading actors/actresses based on whether they have an Oscar or not barely makes a difference in the ultimate revenue.
 - Actual vs. predicted revenue for 15 random movies:
 
