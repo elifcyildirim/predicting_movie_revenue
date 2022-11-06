@@ -47,5 +47,5 @@ Movies make up a large portion of the entertainment business and producing a mov
 
 [Oscars Major Award Nominees & Winners 1928-2020](https://www.kaggle.com/datasets/darinhawley/oscars-major-award-nominees-winners-19282020)
 
-[Imdb’s Top 1000 Movies ](https://www.github.com/mrzeynalli)
+[Imdb’s Top 1000 Movies ](https://github.com/mrzeynalli/Python/tree/main/UoE%20-%20Projects/TOP1000%20Movies%20by%20IMDb)
 
