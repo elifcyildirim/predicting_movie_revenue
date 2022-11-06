@@ -37,7 +37,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 
 - Jupyter notebook 6.4.8.
 - Web Scraping (bs4)
-- Numpy, pandas, sklearn
+- Numpy, pandas, scikit-learn
 - Seaborn, matplotlib
 - Tableau
 
