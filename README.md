@@ -1,6 +1,8 @@
-![hollywood.jpeg](image/hollywood.jpeg)
-
 # Producing the hollywood movies: a financial investigation
+
+by Elif Cihan Yildirim
+
+![hollywood.jpeg](image/hollywood.jpeg)
 
 Movies make up a large portion of the entertainment business and producing a movie end-to-end requires millions of dollars. In this project, I present a machine learning model predicting the revenue of movies. This model is useful for private investors, sponsors, film studios and entertainment companies that are financing the movies. I performed my analysis mainly on Hollywood, because it is the largest film industry in the world with almost $37 billion dollars gross domestic product in 2021.
 
@@ -20,7 +22,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 - **4_Academy_awards_df_(adding_2021).ipynb.** I simply added the 2021 Oscars award data to the Oscars dataset (1928-2020) that I downloaded from kaggle.com. This data is used for feature engineering purposes.
 - **5_DataPrep_and_EDA.ipynb.** Movies that are released in the US between the years 2015-2021 are treated and prepared in this notebook.
 - **6_DataPrep_ValidationDataset.ipynb.** The same preparation steps are applied to the validation data, which are the movies released in 2022.
-- **7_Regression_Model.ipynb.** I built a linear regression model to predict the movie revenues.
+- **7_Regression_models_pipeline.ipynb.** I built a regression model selection pipeline where different transformations were applied to data to see whether the score improves.
 - **Producing_the_Hollywood_movies.pdf.** I present my analysis, model and key findings in this presentation. 
 - **[Tablaeu file: Movie_industry](https://public.tableau.com/views/Movie_industry/Budget_vs_Gross_per_genre?:language=en-US&:display_count=n&:origin=viz_share_link).** You can find the visualizations that I produced in this project on Tablaeu public.
 
