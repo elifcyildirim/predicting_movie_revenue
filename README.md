@@ -12,9 +12,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 - Oscars Major Award Nominees & Winners 1928-2021
 - Top 1000 movies on imdb.com
 
-## Developer instructions
-
-### Files included
+## Files included
    
 - **1_IMDBscraper_Step1.ipynb.** This notebook scrapes the primary information on all movies from imdb.com.
 - **2_IMDBscraper_Step2.ipynb.** As the second step of scraping, this notebook retrieves the award information for each movie that was scraped in the first step.
@@ -44,7 +42,7 @@ Movies make up a large portion of the entertainment business and producing a mov
 - Seaborn, matplotlib
 - Tableau
 
-### References
+## References
 
 [Oscars Major Award Nominees & Winners 1928-2020](https://www.kaggle.com/datasets/darinhawley/oscars-major-award-nominees-winners-19282020)
 
